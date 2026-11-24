@@ -67,6 +67,7 @@ This list is curated by hand. Every entry says **what kind of platform it is, ho
 | [Startup Fame](https://startupfa.me) | Startup directory | Reviewed listing | ✅ With badge | ✅ Dofollow |
 | [twelve.tools](https://twelve.tools) | Tools directory | 12 tools a day | ✅ With backlink | ✅ Dofollow |
 | [Findly.tools](https://findly.tools) | Tools directory | Reviewed listing | ✅ With badge | ✅ Dofollow |
+| [Product Launch Directory](https://launch.globaltoolsbox.online/) | Startup directory | Zero-signup listing | ✅ | — |
 | [AlternativeTo](https://alternativeto.net) | Software directory | Listing | ✅ | — |
 | [SaaSHub](https://www.saashub.com) | Software directory | Listing | ✅ | — |
 
